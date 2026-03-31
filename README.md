@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 - 🎓 Student passionate about technology and problem-solving
 - 🔐 Interested in Cybersecurity & Ethical Hacking
 - 💡 Love working on real-world projects to improve my skills
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript, C#, SQL
 - ⚙️ Frameworks: ASP.NET Web Forms
 - 🗄️ Database: SQL Server
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 ### 💻 Development Projects
 - 🏫 College Course Selection System (ASP.NET + SQL Server)
 - 📚 Online Course Registration & Seat Booking System
@@ -36,8 +36,8 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/
+##  Connect With Me
+-  LinkedIn: www.linkedin.com/in/
 nithya-t-p-5b4866324
 - 📧 Email: nithyatp2255@gmail.com
 
@@ -48,4 +48,4 @@ nithya-t-p-5b4866324
 
 ---
 
-⭐️ From [Nithya](https://github.com/nithya-tp)
+From [Nithya](https://github.com/nithya-tp)
