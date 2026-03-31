@@ -34,18 +34,18 @@
 - 🔍 Learning penetration testing techniques
 - ⚡ Improving backend and database skills
 
----
+https://streak-stats.demolab.com?user=Nithya-tp\&theme=tokyonight
 
 ##  Connect With Me
 -  LinkedIn: www.linkedin.com/in/
 nithya-t-p-5b4866324
 - 📧 Email: nithyatp2255@gmail.com
 
----
+
 
 ## ⚡ Fun Fact
 > "Security is not a product, but a process." 🔐
 
----
+
 
 From [Nithya](https://github.com/nithya-tp)
