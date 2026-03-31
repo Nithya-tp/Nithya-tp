@@ -3,7 +3,6 @@
 💻 Aspiring Developer | 🔐 Cybersecurity Enthusiast  
 🚀 Passionate about building secure and efficient applications  
 
----
 
 ##  About Me
 - 🎓 Student passionate about technology and problem-solving
@@ -11,7 +10,7 @@
 - 💡 Love working on real-world projects to improve my skills
 - 📚 Currently learning: Web Security, Networking, and Backend Development
 
----
+
 
 ##  Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript, C#, SQL
@@ -20,21 +19,21 @@
 - 🐧 Tools: Kali Linux, Git, GitHub
 - 🔐 Security Tools: Burp Suite, Gobuster, John the Ripper, nmap
 
----
+
 
 ##  Projects
 ### 💻 Development Projects
 - 🏫 College Course Selection System (ASP.NET + SQL Server)
 - 📚 Online Course Registration & Seat Booking System
 
----
+
 
 ## 📈 Currently Working On
 - 🛡️ Building cybersecurity-based projects for portfolio
 - 🔍 Learning penetration testing techniques
 - ⚡ Improving backend and database skills
 
-https://streak-stats.demolab.com?user=Nithya-tp\&theme=tokyonight
+
 
 ##  Connect With Me
 -  LinkedIn: www.linkedin.com/in/
